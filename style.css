@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Julee&family=Lobster&family=Raleway:wght@100&family=Roboto:wght@100&display=swap');
+
+
+body {
+  font-family: 'Caveat', cursive;
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 20px;
+  letter-spacing: 2px;
+}
+
+div {
+  margin: 0;
+  padding: 10px;
+}
+
+.sm {
+  color: #fce0a1;
+  text-decoration: none;
+}
+
+.sm:hover { 
+  text-decoration: underline;
+}
+
+.aboutme {
+  background-color: #aecacc;
+  text-align: center;
+}
+
+.links {
+  background-color: #243f5a;
+  text-align: center;
+}
+
+.hobby_and_back {
+  background-color: #c93820;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hobb {
+  margin: 0;
+}
+
+.contact {
+  background-color: #fce0a1;
+  text-align: center;
+}
